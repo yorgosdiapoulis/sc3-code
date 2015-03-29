@@ -1,5 +1,5 @@
 # Onsets detection
-- SuperCollider code for onsets detection on monophonic signal from violin recordings.
+- SuperCollider code for onsets detection of monophonic signals from violin recordings.
 
 ## batch-extraction
 - This folder contains all the snippets for batch onsets extractio using SCMIR library.
@@ -9,5 +9,5 @@
 - ExtractOnsets.sc and ExtractOnsetsMulti.sc provide a GUI for onset detection using SCMIR's methods `extratOnsets`
 
 ## onsets-detection-procedure.scd
-- It is the chunck for analyzing the extracted data.
-- This should be implemented in a class.
+- This is the chunck for analyzing the extracted data, in sclang.
+	+ This should be implemented in a class.
