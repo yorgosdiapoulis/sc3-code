@@ -1,3 +1,4 @@
+```supercollider
 ~take=18;
 ~num=411;
 ~dyad="7";
@@ -78,3 +79,4 @@
 )
 //
 SaveOnsets(f.outputArray, g.outputArray, ~dyad, ~take, "/home/aucotsi/code/orgmode/research/cmmr2015/onsets/")
+```
